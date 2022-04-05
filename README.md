@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cian Moloney
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning C# with plans to expand this further with .Net
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: Contact me on LinkedIn (https://www.linkedin.com/in/cian-moloney-05334513a/)
 
 <!---
